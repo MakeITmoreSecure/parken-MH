@@ -1,5 +1,12 @@
-This project aims to showcase the bad security on the parken-mh API / endpoints.
-Actually this allows me to track my friends & family across the city.
+This project aims to showcase the bad security on the parken-mh API / endpoints.  
+Actually this allows me to track my friends & family across the city.  
+
+
+# /!\ 
+THIS IS JUST A SHOWCASE AND NOT MEANT TO BE USED AS AN ATTACK OR ANYTHING ELSE.  
+USE AT YOUR OWN RISK - WE TAKE NO RESPONSIBILITY !
+# /!\ 
+
 
 # Track_Me
 this can be used to track a single plate 
