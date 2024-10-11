@@ -7,6 +7,10 @@ THIS IS JUST A SHOWCASE AND NOT MEANT TO BE USED AS AN ATTACK OR ANYTHING ELSE.
 USE AT YOUR OWN RISK - WE TAKE NO RESPONSIBILITY !
 # /!\ 
 
+# Install the reqs
+```shell
+pip3 install -r requirements.txt 
+```
 
 # Track_Me
 this can be used to track a single plate 
